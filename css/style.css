@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  color: #66BFBF;
+  font-family: 'Dancing Script', cursive;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+  font-weight: normal;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+hr {
+  border-style: none;
+  border-top: dotted;
+  width: 10%;
+  border-color: #d0d0d0;
+  border-width: 10px;
+}
+a {
+  text-decoration: none;
+  color: #11999E;
+  margin:auto 25px;
+}
+a:hover {
+  color: #EAF6F6;
+}
+img {
+  display:inline-block;
+}
+p {
+  color: #40514E;
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 150px;
+}
+.top-cloud {
+  position: absolute;
+  right: 270px;
+  top: 100px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 280px;
+  bottom: 300px;
+}
+
+.middle-container {
+  margin-top: 70px;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.first-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+.second-img {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+.profile {
+  margin-bottom: 100px;
+}
+.skills {
+  margin-top: 100px;
+}
+.contact-me {
+  margin: 100px auto;
+}
+.p {
+  margin: 50px auto;
+  width: 60%
+}
+.copyright-p {
+  color: #EAF6F6;
+  font-size: 50%;
+  margin-top: 20px;
+}
+.btn {
+  color: #EAF6F6;
+  background-color: #66BFBF;
+  padding:10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.btn:hover {
+  background-color: #2da6d2;
+  color: #EAF6F6;
+}
+.profile-p {
+  width: 60%;
+  margin: 0 auto;
+}
+.contact-p {
+  width: 60%;
+  margin:auto;
+}
